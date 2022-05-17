@@ -2,7 +2,6 @@
 dependencies: []
 
 galaxy_info:
-  role_name: docker
   author: geerlingguy
   description: Role for installing docker and docker-compose for Linux.
   company: "Midwestern Mac, LLC"
